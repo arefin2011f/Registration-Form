@@ -1,0 +1,94 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+.registration-form{
+	width: 600px;
+	margin: 60px auto;
+	padding: 40px;
+	background-color:#F6CE89;
+}
+
+.registration-form h2{
+	font-family: serif;
+	font-size: 40px;
+	font-weight: 600;
+	text-transform: ;
+	text-align: center;
+	line-height: 50px;
+	margin: 25px 0px;
+}
+.form-group{
+	width: 100%;
+	margin: 0px 0px 16px;
+}
+.form-group label{
+	display: block;
+	font-size: 17px;
+	font-weight: 450;
+	text-transform: ;
+	line-height: 25px;
+	margin: 0px 0px 6px;
+}
+.form-control{
+	width: 97%;
+	padding: 8px;
+	background: transparent;
+	color: #000;
+	font-size: 13px;
+	font-weight: 500;
+	border: 2px solid #000;
+	border-radius: 7px;
+}
+.btn-info{
+	padding: 8px 35px;
+	font-size: 14px;
+	font-weight: 550;
+	letter-spacing: 1px;
+	border: 2px solid#000;
+	color: #E67A8E;
+	transition: 1s;
+}
+
+.btn-info:hover{
+	border: 2px solid #eee;
+	color: #F9B473;
+	background: #31F16E;
+	cursor: pointer;
+}
+.social-section{
+	width: 100%;
+	padding: 70px 0px;
+}
+.social-icons{
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+.social-icons li{
+	list-style: none;
+	display: inline-block;
+}
+.social-icons li a{
+	display: block;
+	width: 80px;
+	height: 70px;
+	line-height: 70px;
+	font-size: 30px;
+	background: #F2F3CA;
+	margin: 5px;
+	color: #EECE7F;
+	border: 2px solid #000;
+	border-radius: 35%;
+}
+.social-icons li a:hover{
+	background: #EABF54;
+	color:#EDFA53 ;
+	border: 3px solid #900C3F ;
+}
+
+
